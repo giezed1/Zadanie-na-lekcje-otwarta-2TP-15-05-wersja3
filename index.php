@@ -36,7 +36,7 @@
 				<div class="prawy">
 					<h3 class="titles">Zamówienia</h3>
 					<hr>
-					
+
 				</div>
 			</div>
 			<div class="payments">
@@ -64,6 +64,7 @@
 			</div>
 			<div class="stopkap">
 				<img src="logo.png" alt="logo">
+        <p>cos</p> 
 			</div>
 		</div>
 	</div>
